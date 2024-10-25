@@ -47,7 +47,7 @@ Feel free to explore the code in the  files to understand how everything works. 
 
 ## Tutorial Video
 
-If you need more help, check out the [YouTube Tutorial](#) that walks through building this project from scratch, line by line!
+If you need more help, check out the [YouTube Tutorial](https://youtu.be/k_aZN8oXHPg?si=HP6BK5M_6dgTb_Qx) that walks through building this project from scratch, line by line!
 
 ## Additional Help
 
